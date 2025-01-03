@@ -1,5 +1,5 @@
-[] punkt1
-[] punkt2
+# punkt1
+## punkt2
 
 - test
 - errgt
