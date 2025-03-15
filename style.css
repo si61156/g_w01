@@ -1,17 +1,20 @@
 *{
     margin: 0;
     padding: 0;
-    background: coral;
+    background: coral;  
+    /* Seitenhintergrund  */
 }
 
 h1 {
     color: whitesmoke;
+    /* H1 Überschrift  weiß  */
     font-size: 30px;
     margin-bottom: 15px;
 }
 
 p {
     font-size: 20px;
+     /* P Text    */
     color: #f7f7f7;
     margin-bottom: 8px;
 }
