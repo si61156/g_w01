@@ -7,16 +7,16 @@
 
 h1 {
     color: rgb(51, 177, 58);
-    /* H1 Überschrift  weiß  */
+    /* H1 Überschrift    */
     font-size: 30px;
     margin-bottom: 15px;
 }
 
 h2 {
-    color: rgb(110, 51, 177);
-    /* H1 Überschrift  weiß  */
+    color: rgb(31, 19, 44);
+    /* H2 Überschrift  weiß  */
     font-size: 30px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 p {
