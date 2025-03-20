@@ -34,8 +34,8 @@ p {
 .container {
     position: absolute;
     width: 600px;
-    top: 50%;
-    left: 30%;
+    top: 10%;
+    left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
 }
