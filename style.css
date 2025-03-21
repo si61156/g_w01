@@ -10,10 +10,11 @@ h1 {
     color: rgb(40, 235, 50);
     /* H1 Überschrift    */
     font-size: 30px;
-    margin-bottom: 15px;  /* unten */
-    margin-top: 15px;    /* oben */
-    margin-left: 40px;    /* links */
-    margin-right:40px;    /* rechts */
+   /* margin-bottom: 15px;  /* unten */
+   /* margin-top: 15px;    /* oben */
+   /* margin-left: 40px;    /* links */
+    /*margin-right:40px;    /* rechts */
+
 }
 
 h2 {
