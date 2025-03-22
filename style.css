@@ -32,11 +32,11 @@ p {
     margin-bottom: 1px;
 }
 
-.container {
+/*.container {
     position: absolute;
     width: 600px;
    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-align: center;
+    text-align: center; */
 }
