@@ -25,6 +25,13 @@ h2 {
     margin-bottom: 30px;
 }
 
+h5 {
+    background-color: rgba(223, 226, 24, 0.473);
+    color: rgb(31, 19, 44);
+    /* H2 Überschrift  weiß  */
+    font-size: 30px;
+    margin-bottom: 30px;
+}
 p {
     font-size: 20px;
      /* P Text    */
