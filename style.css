@@ -31,13 +31,17 @@ h5 {
     color: black;
     /* H5 Überschrift    */
     font-size: 16px;
+    margin: 0px 0px 0px 0px; /* o r u l */ 
+
     /* margin-bottom: 30px; */
 }
 p {
     font-size: 20px;
      /* P Text    */
     color: #3f2929;
-    margin-bottom: 1px;
+   /* margin-bottom: 1px; */
+    margin: 0px 0px 0px 0px; /* o r u l */ 
+
 }
 
 
