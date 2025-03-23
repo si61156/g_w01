@@ -10,6 +10,7 @@ h1 {
     color: yellow;
     /* H1 Überschrift    */
     font-size: 30px;
+    text-align: center; 
    /* margin-bottom: 15px;   unten */
    /* margin-top: 15px;      oben */
    /* margin-left: 40px;    links */
@@ -22,6 +23,7 @@ h2 {
     color: rgb(31, 19, 44);
     /* H2 Überschrift  weiß  */
     font-size: 20px;
+    text-align: center; 
     /* margin-bottom: 30px; */
     margin: 0px 0px 0px 0px; /* o r u l */ 
 }
