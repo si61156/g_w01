@@ -1,8 +1,12 @@
 *{
     /* margin: 10px; */
+    /* margin Platz zwischen Rand und Element */
+    /* margin: 10px; */
+    /* Raum zwischen Border und Element*/
     padding: 10px;
-    background: rgba(125, 226, 209, 0.747);  
     /* Seitenhintergrund  */
+    background: rgba(125, 226, 209, 0.747);  
+    
 }
 
 h1 {
