@@ -1,5 +1,5 @@
 *{
-    margin: 10px;
+    margin: 0;
     padding: 10px;
     background: rgba(125, 226, 209, 0.747);  
     /* Seitenhintergrund  */
