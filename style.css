@@ -34,18 +34,20 @@ h2 {
 }
 
 h5 {
-    background-color: yellow;
+    /* background-color: yellow;*/
     color: black;
     /* H5 Überschrift    */
     font-size: 16px;
+    
     margin: 0px 0px 0px 0px; /* o r u l */ 
 
     /* margin-bottom: 30px; */
 }
 p {
-    font-size: 20px;
-     /* P Text    */
-    /* color: #3f2929;*/
+    /* P Text    */
+    font-size: 16px;
+    background-color: yellow;
+     /* color: #3f2929;*/
    /* margin-bottom: 1px; */
     margin: 0px 0px 0px 0px; /* o r u l */ 
 
