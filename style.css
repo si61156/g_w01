@@ -5,7 +5,7 @@
     /* Raum zwischen Border und Element*/
     padding: 10px;
     /* Seitenhintergrund  */
-    background: rgba(125, 226, 209, 0.747);  
+    /* background: rgba(194, 189, 189, 0.795);*/  
     
 }
 
@@ -34,19 +34,17 @@ h2 {
 }
 
 h5 {
-    /* background-color: yellow;*/
-    color: black;
     /* H5 Überschrift    */
-    font-size: 16px;
-    
-    margin: 0px 0px 0px 0px; /* o r u l */ 
-
     /* margin-bottom: 30px; */
+    margin: 0px 0px 0px 0px; /* o r u l */ 
+    background-color: yellow;
+    color: black;
+    font-size: 16px;
 }
 p {
     /* P Text    */
     font-size: 16px;
-    background-color: yellow;
+    /*  background-color: yellow; */
      /* color: #3f2929;*/
    /* margin-bottom: 1px; */
     margin: 0px 0px 0px 0px; /* o r u l */ 
