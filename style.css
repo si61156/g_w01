@@ -61,8 +61,8 @@ h6 {
     /* H6 Überschrift    */
     /* margin-bottom: 30px; */
     margin: 0px 0px 0px 0px; /* o r u l */ 
-    background-color: yellow;
-    color: black;
+    background-color: gray;
+    color: red;
     font-size: 10px;
 }
 p {
