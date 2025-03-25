@@ -24,22 +24,46 @@ h1 {
 }
 
 h2 {
+    /* H2 Überschrift  weiß  */
+    /* margin-bottom: 30px; */
+    margin: 0px 0px 0px 0px; /* o r u l */
     /*background-color: white;*/
     color: rgb(31, 19, 44);
-    /* H2 Überschrift  weiß  */
     font-size: 20px;
     text-align: center; 
-    /* margin-bottom: 30px; */
-    margin: 0px 0px 0px 0px; /* o r u l */ 
+    
 }
-
+h3 {
+    /* H3 Überschrift    */
+    /* margin-bottom: 16px; */
+    margin: 0px 0px 0px 0px; /* o r u l */ 
+    background-color: yellow;
+    color: black;
+    font-size: 16px;
+}
+h4 {
+    /* H4 Überschrift    */
+    /* margin-bottom: 16px; */
+    margin: 0px 0px 0px 0px; /* o r u l */ 
+    background-color: yellow;
+    color: black;
+    font-size: 14px;
+}
 h5 {
     /* H5 Überschrift    */
     /* margin-bottom: 30px; */
     margin: 0px 0px 0px 0px; /* o r u l */ 
     background-color: yellow;
     color: black;
-    font-size: 16px;
+    font-size: 12px;
+}
+h6 {
+    /* H6 Überschrift    */
+    /* margin-bottom: 30px; */
+    margin: 0px 0px 0px 0px; /* o r u l */ 
+    background-color: yellow;
+    color: black;
+    font-size: 10px;
 }
 p {
     /* P Text    */
