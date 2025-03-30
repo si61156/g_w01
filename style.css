@@ -21,7 +21,7 @@ h1 {
     /*margin-right:40px;    rechts */
     margin: 0px 0px 0px 0px; /* o r u l */ 
     border: 5px outset yellow;  /* Rand Kante */
-    brder-style: double; 
+    border-style: double; 
 }   
 
 h2 {
