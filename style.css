@@ -20,7 +20,7 @@ h1 {
    /* margin-left: 40px;    links */
     /*margin-right:40px;    rechts */
     margin: 0px 0px 0px 0px; /* o r u l */ 
-   /* border: 5px outset yellow;  /* Rand Kante */
+    border: 5px outset yellow;  /* Rand Kante */
     border-style: double; 
 }   
 
