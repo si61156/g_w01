@@ -46,7 +46,13 @@
         <p>Ich wünsche einen schönen Tag   </p>
         
         <p> heute ist der:  </p>
-        <time datetime="2025-02-20T15:30">20. Februar 2025, 15:30 Uhr</time>
+        <script>
+            
+            var Jetzt = new Date() ;
+            var Tag = Jetzt.getDate() ;
+            document.write("Heute ist der " + Tag +".") ;
+        
+           </script>
         <br>
         <p>s.du</p>
         <!--<p>www.google.com</p> -->
