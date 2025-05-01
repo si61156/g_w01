@@ -42,10 +42,6 @@
 
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                    <a href="https://www.coder-world.de/cw/seite__page-tipps-suchmaschienenranking.html" title="w3"><b>Coder-World</b></a>
-                    <br>
-                    <a href="https://www.coder-world.de/cw/seite__pagezugriffsrechte.html" title="w3"><b>Zugriffs-Rechte</b></a>
-                    <br>
 
                     <a href="https://www.w3schools.com/bootstrap5/bootstrap_buttons.php" title="w3"><b> W3 Button</b></a>
                     <br>
@@ -57,58 +53,22 @@
                     <br>                               
                     <a href="https://www.w3schools.com/css/default.asp" target="_blank" title="w3"> <b>CSS</b> </a>
                 </div>
-
-
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                    <a href="https://www.w3schools.com/css/css3_buttons.asp" target="_blank" title="w3"><b>CSS Button </b></a>
-                    <br>
-                    <a href="https://www.w3schools.com/css/css3_flexbox_container.asp" target="_blank" title="w3"><b>CSS Flex-Container</b></a>
-                    <br>
-                    <a href="https://wiki.selfhtml.org/wiki/HTML/Attribute/target" title="w3"> <b>HTML Target</b> </a>
-                    <br>
-                    <a href="https://www.w3schools.com/bootstrap5/bootstrap_buttons.php" title="w3"><b>W3</b> </a>
-                </div>
             </div>
-
-
-
-            <hr>
-            <img src="bild/wein02.jpg" width="400" alt="bild02">
-            <!--  <p>Das ist eine Testseite </p>  -->
-            <!--<p> github.com g_w01</p> -->
-            <p> index.html</p>
-            <p> https://github.com/si61156/g_w01/edit/main/index.html#L15C35 </p>
-
-            <h5>h5 https://si61156.github.io/g_w01/ </h5>
 
          
             <p>Ich wünsche einen schönen Tag </p>
             <br>
-            <p> heute: 23.03.2025 </p>
+            <p> heute: 01.05.2025 </p>
             <data value="">ssdsd</data>
             <br>
             <p>s.du</p>
             <!--<p>www.google.com</p> -->
-        </div>
+       </div>
+   </div>
 
-        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-            <h1> g_w01 s11 rechts </h1>
-            <hr>
-            <img src="bild/wein03.jpg" class="mx-auto d-block" width="400" alt="bild03">
-            <p>noch Testseite </p>
-
-            <p> https://github.com/si61156/g_w01/edit/main/index.html#L15C35 </p>
-            <br>
-
-            <p>s.du 2.containe Seite</p>
-        </div>
-    </div>
-
-
-</body>
 <?php
 echo "hier ist php !!!!!!!!";
 ?>
 
-
+    </body>
 </html>
