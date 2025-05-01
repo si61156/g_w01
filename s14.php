@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    <title>GitHub Hosting</title>
+    <link rel="stylesheet" href="style.css">
+    <title>Github Hosting</title>
+</head>
+
+<body>
+    <h2>h2 | einige Link's </h2>
+    <iframe src="https://www.ixq.de/uhrzeit/weiss.php" width="100" height="80" frameborder="0"  border="0" ></iframe>
+
+    <a type="button" class="btn btn-primary btn-sm" value="submit" href="index.html" title="">index.html</a>
+    <a type="button" class="btn btn-outline-success btn-sm" value="submit" href="s12.html" title="">s12.html</a>
+    <a type="button" class="btn btn-warning btn-sm" value="submit" href="s13.html" title="">s13.html</a>
+    <? $datum = date("d.m.Y"); $uhrzeit = date("H:i:s"); echo $datum," ",$uhrzeit," "; ?>
+    <!--  Counter  Besucherzähler -->
+    <a href='https://www.gewerbeversicherung.at/'>Bündelversicherung</a> <script type='text/javascript' src='https://www.fastcounter.net/auth.php?id=04cff5925ba504476dc0e3f322555b0971b66a82'></script>
+    <script type="text/javascript" src="https://www.fast-counter.net/de/home/counter/1321553/t/0"></script>
+   
+    https://wiki.selfhtml.org/wiki/JavaScript/Objekte/Date/Uhr
+    <br>
+
+    <hr>
+
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+            <h1>h1 | GitHub hosting g_w01 / s11.html</h1>
+
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                    <a href="https://www.coder-world.de/cw/seite__page-tipps-suchmaschienenranking.html" title="w3"><b>Coder-World</b></a>
+                    <br>
+                    <a href="https://www.coder-world.de/cw/seite__pagezugriffsrechte.html" title="w3"><b>Zugriffs-Rechte</b></a>
+                    <br>
+
+                    <a href="https://www.w3schools.com/bootstrap5/bootstrap_buttons.php" title="w3"><b> W3 Button</b></a>
+                    <br>
+                    <a href="https://www.w3schools.com/bootstrap5/bootstrap_containers.php" title="w3"><b>W3 Container</b></a>
+                    <br>
+                    <a href="https://www.w3schools.com/bootstrap5/bootstrap_grid_basic.php" title="w3"><b>W3 Grid System</b></a>
+                    <br>
+                    <a href="https://www.w3schools.com/bootstrap5/bootstrap_images.php" target="_blank" title="W3"><b>w3 css</b></a>  
+                    <br>                               
+                    <a href="https://www.w3schools.com/css/default.asp" target="_blank" title="w3"> <b>CSS</b> </a>
+                </div>
+
+
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                    <a href="https://www.w3schools.com/css/css3_buttons.asp" target="_blank" title="w3"><b>CSS Button </b></a>
+                    <br>
+                    <a href="https://www.w3schools.com/css/css3_flexbox_container.asp" target="_blank" title="w3"><b>CSS Flex-Container</b></a>
+                    <br>
+                    <a href="https://wiki.selfhtml.org/wiki/HTML/Attribute/target" title="w3"> <b>HTML Target</b> </a>
+                    <br>
+                    <a href="https://www.w3schools.com/bootstrap5/bootstrap_buttons.php" title="w3"><b>W3</b> </a>
+                </div>
+            </div>
+
+
+
+            <hr>
+            <img src="bild/wein02.jpg" width="400" alt="bild02">
+            <!--  <p>Das ist eine Testseite </p>  -->
+            <!--<p> github.com g_w01</p> -->
+            <p> index.html</p>
+            <p> https://github.com/si61156/g_w01/edit/main/index.html#L15C35 </p>
+
+            <h5>h5 https://si61156.github.io/g_w01/ </h5>
+
+         
+            <p>Ich wünsche einen schönen Tag </p>
+            <br>
+            <p> heute: 23.03.2025 </p>
+            <data value="">ssdsd</data>
+            <br>
+            <p>s.du</p>
+            <!--<p>www.google.com</p> -->
+        </div>
+
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+            <h1> g_w01 s11 rechts </h1>
+            <hr>
+            <img src="bild/wein03.jpg" class="mx-auto d-block" width="400" alt="bild03">
+            <p>noch Testseite </p>
+
+            <p> https://github.com/si61156/g_w01/edit/main/index.html#L15C35 </p>
+            <br>
+
+            <p>s.du 2.containe Seite</p>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
