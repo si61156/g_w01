@@ -3,12 +3,27 @@
     /* margin Platz zwischen Rand und Element */
     /* margin: 10px; */
     /* Raum zwischen Border und Element*/
-    padding: 10px;
+    padding: 1px;
     /* Seitenhintergrund  */
     /* background: rgba(194, 189, 189, 0.795);*/  
     
 }
 
+.container1 {
+   /* position: absolute; /* beliebige Stelle des Viewports */ */
+   /* width: 600px;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);  */
+    text-align: center; 
+}
+
+.myDiv {
+    border: 4px outset yellow;
+    background-color: rgba(245, 222, 179, 0.418)
+
+}
 h1 {
      /* H1 Überschrift    */
     background-color: blue;
@@ -40,6 +55,7 @@ h3 {
     background-color: orange;
     color: black;
     font-size: 16px;
+    text-align: center; 
 }
 h4 {
     /* H4 Überschrift    */
@@ -78,18 +94,3 @@ p {
 
 
 
-.container {
-    position: absolute; /* */
-    width: 600px;
-
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center; 
-}
-
-.myDiv {
-    border: 4px outset yellow;
-    background-color: rgba(245, 222, 179, 0.418)
-
-}
