@@ -40,10 +40,10 @@ h1 {
 }   
 
 h2 {
-    /* H2 Überschrift  weiß  */
+    /* H2 Überschrift   */
     /* margin-bottom: 30px; */
     margin: 0px 0px 0px 0px; /* o r u l */
-    background-color: white;
+    background-color: coral;  /*white;*/
     color: rgb(31, 19, 44);
     font-size: 20px;
     text-align: center; 
